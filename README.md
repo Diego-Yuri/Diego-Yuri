@@ -1,4 +1,4 @@
-## Olá, meu nome é Diego Yuri da Cunha, sou um futuro dev
+## Olá, meu nome é Diego Yuri da Cunha, estou estudando programação com o objetivo de me tornar um futuro dev!
 Estudando no momento: React, TypeScript, NodeJS
 
 <div align="center">
