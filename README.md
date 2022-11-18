@@ -1,4 +1,4 @@
-## Olá, meu nome é Diego Yuri da Cunha, e atulamente sou um developer fullstack!
+## Olá, meu nome é Diego Yuri da Cunha, e atualmente sou um developer fullstack!
 
 <div align="center">
   <a href="https://github.com/Jaguar727">
